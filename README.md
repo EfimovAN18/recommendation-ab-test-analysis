@@ -105,7 +105,7 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
-После запуска откройте `ab_test_recommendation_analysis.ipynb`.
+После запуска откройте [ab_test_recommendation_analysis.ipynb](./ab_test_recommendation_analysis.ipynb).
 
 ## Итог
 
